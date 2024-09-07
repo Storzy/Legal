@@ -5,8 +5,9 @@ html, body {
 
 body {
     font-family: 'Raleway', sans-serif;
-    padding-top: 100px;
+    padding-top: 120px;
     padding-left: 7.5%;
     padding-right: 7.5%;
+    padding-bottom: 100px;
     box-sizing: border-box;
 }
